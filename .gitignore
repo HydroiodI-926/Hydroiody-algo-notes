@@ -1,0 +1,18 @@
+# 默认忽略所有内容
+*
+
+# 保留目录结构
+!*/
+
+# 只跟踪 Markdown 和常见图片
+!*.md
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.webp
+!*.svg
+
+# 保留仓库文件
+!.gitignore
+!LICENSE
